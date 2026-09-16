@@ -10,7 +10,7 @@ Ideogram 4's structured JSON captioning format gets its own dedicated builder: a
 
 ## Languages
 
-The app interface is bilingual (Italian / English), but the term database itself is Italian-only for now: this started as a personal tool built by and for an Italian speaker, so Italian is the only language it was ever written in. Adding other source languages is very much on the roadmap, but it's a lot of terminology to translate and curate well — help from the community, in whatever language, is genuinely what will make that happen faster. Open an Issue if you'd like to contribute a language.
+The app interface and the term database are both bilingual (Italian / English) for now — the whole app, database terms included, works fine if you only read English. This started as a personal tool built by an Italian speaker, so those are the only two languages it currently supports. Adding more languages is very much on the roadmap, but it's a lot of terminology to translate and curate — and more importantly, it really needs a native speaker for each language to get it right. Help from the community is genuinely what will make that happen. Open an Issue if you'd like to contribute a language.
 
 ## Usage notes
 
